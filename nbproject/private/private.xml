@@ -5,7 +5,8 @@
         <group>
             <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/datos/interfaces/CRUDGeneralInterface.java</file>
             <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/database/Conexion.java</file>
-            <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/database/CategoriaDAO.java</file>
+            <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/negocio/CategoriaControl.java</file>
+            <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/datosDAO/CategoriaDAO.java</file>
             <file>file:/C:/Users/diego/OneDrive/Documentos/PROGRA_lll/javaProyecto/puntoVenta/src/entidades/Categoria.java</file>
         </group>
     </open-files>
